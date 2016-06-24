@@ -4,7 +4,7 @@
 
 Submitted by: **Ana Grande Escobedo**
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total for the required functionalities.
 
 ## User Stories
 
@@ -38,10 +38,6 @@ Here's an example of the persistence of the app:
 ![todoapppersistence](https://cloud.githubusercontent.com/assets/3190515/16327921/6a1597d4-3989-11e6-849b-1d064185dd9d.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
